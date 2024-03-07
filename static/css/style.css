@@ -1,0 +1,21 @@
+.employee_form{
+    font-family: cursive;
+    font-size: 22px;
+    color: blueviolet;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 48px;
+    
+}
+.employee_list{
+    font-family: 'aakar';
+    color: blueviolet;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+h3{
+
+}

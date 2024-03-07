@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Employee List</title>
+    <link rel="stylesheet" href="../../static/css/style.css">
+</head>
+<body>
+<h3>This is the employee list.</h3>
+<form  method="POST" action="" class="employee_list">
+    {%csrf_token%}
+    {{form.as_p }}
+    <button type="submit">SUBMIT</button>
+</form>
+</body>
+</html>
